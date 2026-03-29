@@ -64,14 +64,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Routing-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Switching-34A853?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACL-9C27B0?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/NAT-E91E63?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
 ---
 
 ### 🔷 Cloud Platforms  
