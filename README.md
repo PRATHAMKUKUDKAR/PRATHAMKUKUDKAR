@@ -74,7 +74,7 @@
 
 ---
 
-### 🔹 Cloud Platforms  
+### 🔷 Cloud Platforms  
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 🔷 Azure Labs (Click to Explore)
+### 🔹 Azure Labs (Click to Explore)
 <p>
 
   <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-VM.md">
