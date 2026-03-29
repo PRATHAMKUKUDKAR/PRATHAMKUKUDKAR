@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack – My Tools & Skills
 
-### 🔹 Networking  
+### 🔷 Networking  
 
 #### 📡 Routing
 <p>
