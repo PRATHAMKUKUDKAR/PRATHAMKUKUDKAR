@@ -18,11 +18,25 @@
 - 🎯 Goal: Become a **Cloud + DevOps Architect**  
 
 ---
+
 ## 🛠️ Tech Stack – My Tools & Skills
 
 ### 🔹 Networking  
+
+#### 📡 Routing (Click to Explore)
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/RIP.md">RIP</a>  
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/OSPF.md">OSPF</a>  
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/EIGRP.md">EIGRP</a>  
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Default_Routing.md">Default Routing</a>  
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Static_Routing.md">Static Routing</a>  
+
+#### 🔀 Switching
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/SWITCHES_CONNECTED_TO_END_DEVICES.md">Switches Connected to End Devices</a>  
+
+#### 🌐 VLAN
+- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/INTRA_VLAN.md">Intra VLAN</a>  
+
 <p>
-  <img src="https://img.shields.io/badge/CCNA-1A73E8?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Routing-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Switching-34A853?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge&logo=buffer&logoColor=white" />
@@ -62,47 +76,37 @@
   <img src="https://img.shields.io/badge/DHCP-8E44AD?style=for-the-badge&logo=serverfault&logoColor=white" />
 </p>
 
-
+---
 
 ## 🧩 Popular Tech Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
-  <!-- Correct AWS Badge -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-  <!-- Correct Azure Badge -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
-
 ---
+
 ## 📫 Connect With Me
 <p align="center">
 
-  <!-- Gmail Badge -->
   <a href="mailto:prathamkukudkar@gmail.com">
     <img src="https://img.shields.io/badge/Email_prathamkukudkar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/pratham-kukudkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Phone Badge -->
   <a href="tel:+917620113980">
     <img src="https://img.shields.io/badge/Call-7620113980-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 </p>
 
-
 ---
-
 
 <p align="center"><b>⭐ Thanks for visiting! Have a great day! ⭐</b></p>
