@@ -23,18 +23,46 @@
 
 ### 🔹 Networking  
 
-#### 📡 Routing (Click to Explore)
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/RIP.md">RIP</a>  
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/OSPF.md">OSPF</a>  
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/EIGRP.md">EIGRP</a>  
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Default_Routing.md">Default Routing</a>  
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Static_Routing.md">Static Routing</a>  
+#### 📡 Routing
+<p>
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/RIP.md">
+    <img src="https://img.shields.io/badge/RIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/OSPF.md">
+    <img src="https://img.shields.io/badge/OSPF-FF6F00?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/EIGRP.md">
+    <img src="https://img.shields.io/badge/EIGRP-4CAF50?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Default_Routing.md">
+    <img src="https://img.shields.io/badge/Default_Route-9C27B0?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/Static_Routing.md">
+    <img src="https://img.shields.io/badge/Static_Route-E91E63?style=for-the-badge&logo=protocolsio&logoColor=white" />
+  </a>
+</p>
+
+---
 
 #### 🔀 Switching
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/SWITCHES_CONNECTED_TO_END_DEVICES.md">Switches Connected to End Devices</a>  
+<p>
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/SWITCHES_CONNECTED_TO_END_DEVICES.md">
+    <img src="https://img.shields.io/badge/Switching-Connected_Devices-34A853?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+</p>
+
+---
 
 #### 🌐 VLAN
-- 🔗 <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/INTRA_VLAN.md">Intra VLAN</a>  
+<p>
+  <a href="https://github.com/PRATHAMKUKUDKAR/CCNA/blob/main/CCNA/INTRA_VLAN.md">
+    <img src="https://img.shields.io/badge/VLAN-Intra_VLAN-FF9800?style=for-the-badge&logo=buffer&logoColor=white" />
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Routing-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
