@@ -64,12 +64,72 @@
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Routing-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Switching-34A853?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACL-9C27B0?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/NAT-E91E63?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
 ---
 
 ### 🔹 Cloud Platforms  
+
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+### 🔷 Azure Labs (Click to Explore)
+<p>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-VM.md">
+    <img src="https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-VNet-And-Subnets.md">
+    <img src="https://img.shields.io/badge/VNet_&_Subnets-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-site-To-site-vpn.md">
+    <img src="https://img.shields.io/badge/Site_to_Site_VPN-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-Bastion-Lab.md">
+    <img src="https://img.shields.io/badge/Azure_Bastion-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Vnet_Perring.md">
+    <img src="https://img.shields.io/badge/VNet_Peering-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Vnet_Peering_Different_AZ.md">
+    <img src="https://img.shields.io/badge/Peering_Different_AZ-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-NSG-Internet-Block-lab.md">
+    <img src="https://img.shields.io/badge/NSG_Block_Internet-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-Internet-block-Blackhole-Routing-lab.md">
+    <img src="https://img.shields.io/badge/Blackhole_Routing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-Firewall-Application_Rule-lab.md">
+    <img src="https://img.shields.io/badge/Firewall_App_Rule-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-Firewall-And-Dnat-Lab.md.md">
+    <img src="https://img.shields.io/badge/Firewall_DNAT-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/PRATHAMKUKUDKAR/Azure/blob/main/LABS/Azure-Aws-Private-DNS-Resolution.md">
+    <img src="https://img.shields.io/badge/Private_DNS_Resolution-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -94,18 +154,6 @@
   <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DHCP-8E44AD?style=for-the-badge&logo=serverfault&logoColor=white" />
-</p>
-
----
-
-## 🧩 Popular Tech Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
 ---
